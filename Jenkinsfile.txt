@@ -1,0 +1,20 @@
+ipeline {
+    agent any 
+    stages {
+        stage('Dev') { 
+            steps {
+          
+            }
+        }
+        stage('Test') { 
+            steps {
+          
+            }
+        }
+        stage('Prod') { 
+            steps {
+         
+            }
+        }
+    }
+}
